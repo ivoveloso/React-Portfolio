@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.1f5f4db7.css",
-    "main.js": "/React-Portfolio/static/js/main.feed5638.js",
+    "main.js": "/React-Portfolio/static/js/main.cc7abdfa.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/teatime.png": "/React-Portfolio/static/media/teatime.053a57de4efb8e0544d9.png",
     "static/media/Whats-on.png": "/React-Portfolio/static/media/Whats-on.ba2277d123a343b1f1d0.png",
     "static/media/index.png": "/React-Portfolio/static/media/index.e6a17bcd06ebb32a03db.png",
     "static/media/sched.png": "/React-Portfolio/static/media/sched.3702ab57c6283bc9d21e.png",
@@ -10,11 +11,11 @@
     "static/media/gardenmate.png": "/React-Portfolio/static/media/gardenmate.3fa125b159c287fb4864.png",
     "index.html": "/React-Portfolio/index.html",
     "main.1f5f4db7.css.map": "/React-Portfolio/static/css/main.1f5f4db7.css.map",
-    "main.feed5638.js.map": "/React-Portfolio/static/js/main.feed5638.js.map",
+    "main.cc7abdfa.js.map": "/React-Portfolio/static/js/main.cc7abdfa.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f5f4db7.css",
-    "static/js/main.feed5638.js"
+    "static/js/main.cc7abdfa.js"
   ]
 }
